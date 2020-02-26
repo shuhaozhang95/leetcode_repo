@@ -63,4 +63,4 @@ stack堆栈容器的C++标准头文件为 stack ，必须用宏语句 "#include 
 
 5. 画图理解
 
-![](/Users/shuhao/Desktop/Develop/leetcode_repo/stack/stack_cpp/resource/7e876ae756613053b3432cebc9274e9dbdaafd2e6b8492d37fc34ee98f7655ea-图片.png)
+![](./resource/7e876ae756613053b3432cebc9274e9dbdaafd2e6b8492d37fc34ee98f7655ea-图片.png)
