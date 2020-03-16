@@ -1,0 +1,9 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Other
+tmp
+*-local.*
